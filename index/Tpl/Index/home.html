@@ -1,0 +1,175 @@
+<!-- Le styles -->
+<style type="text/css">
+    a {
+		color: #08c;
+		text-decoration: none;
+	}
+
+</style>
+
+    
+<script language="javascript" type="text/javascript"> 
+    var viewDialog;
+
+     //excel导入事件
+    var excel_add = function(){
+        $('#excel_add').dialog({
+        title: 'excel导入',
+        href: '',
+        width: 300,
+        height: 140,
+        bodyStyle: {overflow: 'hidden'},
+        buttons: [{
+                text: '导入',
+                handler: function(){
+                	$('#excel_add').window('close');
+                    $.messager.progress({
+                        text:'数据导入中...',
+                        interval:300  //读条时间
+                    })
+                    $('#excel_form').submit();
+                    
+                }
+            }]
+        });
+    }
+
+
+
+
+    $(function(){
+    	//定义回车事件
+        $("body").keydown(function() {
+             if (event.keyCode == "13"){
+                keysearch()
+             }
+         });
+
+
+        //datagriy
+        $('#dg').datagrid({
+            url: '__APP__/Index/getData',
+            title: '{$title}' ,
+            pagination: true  ,//是否显示分页
+            pageSize :10 ,
+            striped: false,
+            fit :true ,
+            fitColumns :true, //横向滚动条（列多的时候不用设置）
+            sortName:'status,start_time',
+            sortOrder:'asc',
+            columns:[[  
+                {field:'id',title:'ID',checkbox:true},
+                {field: 'stu_no', title: '学号', width: 40, align: 'center'},
+                {field: 'start_time', title: '开始时间', width: 70, align: 'center'},
+                {field: 'finish_time', title: '结束时间', width: 70, align: 'center'},
+                {field: 'running', title: '跑步时间', width: 50, align: 'center'},
+                {field: 'status', title: '状态', width: 100, align: 'center',sortable:true,
+                    formatter: function(value) {
+                            if (value == 1) {
+                                return '<font color="#b94a48">早退</font>';
+                            }else if(value == 2){
+                                return '<font color="#4688473">未完成</font>';
+                            }else{
+                            	return '<font color="#4688473">完成</font>';
+                            }
+                            
+                        }},
+            ]],
+            rowStyler: function(index,row){
+                
+                if (row.status ==1||row.status ==2){
+                    return 'background-color:#f2dede;';
+                }else if(row.tn_merge ==3){
+                    return 'background-color:#d9edf7;'; 
+                }
+            },
+            toolbar: '#tb'
+        });
+
+    });
+
+
+
+    //查询按钮点击事件
+    keysearch　=function(){
+        var searchform = $('#run_searchForm');
+        $('#dg').datagrid('load',searchform.toJson());
+
+    };
+    //清空按钮点击事件
+    info_clear = function(){
+        $('#run_searchForm').find('input').val('');
+        $('#dg').datagrid('load',{});
+
+    };
+  
+</script>
+
+</head>
+<body >  
+  	<div class="easyui-layout" fit="true">
+        <div region="center" border="false">
+            <table id="dg"></table>
+        </div>
+    </div>
+     <!--工具栏-->
+    <div id="tb" class="datagrid-toolbar">
+        <table style="border-collapse: collapse;width: 100%;">
+            <tbody>
+                <tr >
+                    <td style="text-align:left;">
+                        <table>
+                            <tr>
+                                <td>
+                                    <a class="easyui-linkbutton" data-options="iconCls:'icon-file_in',plain:true" onclick="excel_add()">excel数据导入</a>
+                                </td>
+                                <td>
+                                    <a class="easyui-linkbutton" data-options="iconCls:'icon-file_in',plain:true" href="__APP__/Excel/export">数据导出</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style="text-align:right;">
+                        <form id="run_searchForm" style="margin:0px 0px;" >  
+                            <table class="datagrid-toolbar" style="width:100%;height:100%;text-align:right";>
+                                <tr>
+                                    <td style="vertical-align: center;">
+                                        <input placeholder="学号" style="width:100px" name="Q_stu_no_like"/>
+                                        <input type="text" class="easyui-datebox" style="width:150px" name="Q_start_time_egt">
+                                        <input type="text" class="easyui-datebox" style="width:150px" name="Q_start_time_elt">
+                                        <input class="easyui-combobox"  style="width:150px" name="Q_status_eq" data-options=" 
+											valueField: 'value',
+											textField: 'label',
+											data: [{
+												label: '早退',
+												value: 1
+											},{
+												label: '未完成',
+												value: 2
+											},{
+												label: '完成',
+												value: 3
+											}]" />
+                                        <a href="javascript:void(0);" class="easyui-linkbutton" onclick="keysearch()">查询</a>
+                                        <a href="javascript:void(0);" class="easyui-linkbutton" onclick="info_clear()">清空</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </form> 
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <div id="excel_add" >
+        <form id="excel_form"  enctype="multipart/form-data" style="text-align: center;padding-top: 5px;" method="post" action="__APP__/Index/excel_add">  
+            <input id="excel_file" type="file" name="file_stu" />
+        </form> 
+    </div>
+
+    <div id="file_export" style="width:100px;">
+        <div data-options="iconCls:'icon-excel03'"><a href="javascript:void(0);" onclick="excelExport('2003')">excel2003</a></div>
+        <div data-options="iconCls:'icon-excel07'"><a href="javascript:void(0);" onclick="excelExport('2007')">excel2007</a></div>
+    </div>
+

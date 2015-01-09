@@ -1,0 +1,585 @@
+[ 2014-11-17T15:42:55+08:00 ] 127.0.0.1 /run/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001489s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002838s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000780s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010165s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013851s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014439s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014935s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001812s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015721s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2014-11-17T15:42:55+08:00 ] 127.0.0.1 /run/index.php/Index/north.html?_=1416210175319
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001597s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.004550s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.005121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009057s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014248s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014994s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015697s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002892s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017232s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001649s ]
+
+[ 2014-11-17T15:42:55+08:00 ] 127.0.0.1 /run/index.php/Index/foot.html?_=1416210175326
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001137s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.004785s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.005683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009930s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015640s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016199s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016725s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002164s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017898s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2014-11-17T15:42:55+08:00 ] 127.0.0.1 /run/index.php/Index/home.html?_=1416210175334
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.003763s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000835s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.004613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008934s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013613s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014297s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014852s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002621s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016330s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2014-11-17T15:43:10+08:00 ] 127.0.0.1 /run/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000802s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.024755s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.025574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007386s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.033035s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.033786s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.034304s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.034848s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002643s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.035770s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2014-11-17T15:43:10+08:00 ] 127.0.0.1 /run/index.php/Index/north.html?_=1416210190751
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001398s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001510s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.028206s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000790s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.029025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011695s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.040787s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.041676s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.042260s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.043157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003411s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.044325s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2014-11-17T15:43:10+08:00 ] 127.0.0.1 /run/index.php/Index/home.html?_=1416210190770
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001045s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001151s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.050214s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.051011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012959s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.064047s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.064851s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.065580s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.066057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002869s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.067015s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2014-11-17T15:43:11+08:00 ] 127.0.0.1 /run/index.php/Index/foot.html?_=1416210190760
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002386s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002521s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.137360s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000880s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.138320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007734s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.146071s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.146909s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.147637s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.148583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003481s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.149656s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2014-11-17T15:43:16+08:00 ] 127.0.0.1 /run/index.php/Index/excel_add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `source` [ RunTime:0.014050s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.032569s ]
+SQL: TRUNCATE table source [ RunTime:0.010108s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144172026','2014/10/16 0:00','7:26:20') [ RunTime:0.000678s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171901','2014/10/16 0:00','7:26:22') [ RunTime:0.000156s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171902','2014/10/16 0:00','7:26:24') [ RunTime:0.000135s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173606','2014/10/16 0:00','7:26:29') [ RunTime:0.000128s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173730','2014/10/16 0:00','7:26:30') [ RunTime:0.000189s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175730','2014/10/16 0:00','7:26:33') [ RunTime:0.000189s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175731','2014/10/16 0:00','7:26:35') [ RunTime:0.000145s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175728','2014/10/16 0:00','7:26:37') [ RunTime:0.000138s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175729','2014/10/16 0:00','7:26:38') [ RunTime:0.000131s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175814','2014/10/16 0:00','7:26:40') [ RunTime:0.000125s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173512','2014/10/16 0:00','7:26:42') [ RunTime:0.000124s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179230','2014/10/16 0:00','7:26:44') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179229','2014/10/16 0:00','7:26:46') [ RunTime:0.000123s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179302','2014/10/16 0:00','7:26:47') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173326','2014/10/16 0:00','7:26:49') [ RunTime:0.000123s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144172211','2014/10/16 0:00','7:26:52') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173329','2014/10/16 0:00','7:26:54') [ RunTime:0.000123s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179122','2014/10/16 0:00','7:27:09') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171851','2014/10/16 0:00','7:27:11') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171810','2014/10/16 0:00','7:27:12') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171811','2014/10/16 0:00','7:27:14') [ RunTime:0.000130s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179110','2014/10/16 0:00','7:27:17') [ RunTime:0.000123s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173533','2014/10/16 0:00','7:27:32') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173543','2014/10/16 0:00','7:27:35') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177536','2014/10/16 0:00','7:27:36') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171840','2014/10/16 0:00','7:27:38') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177517','2014/10/16 0:00','7:27:39') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177518','2014/10/16 0:00','7:27:40') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173529','2014/10/16 0:00','7:27:43') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173531','2014/10/16 0:00','7:27:44') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144172252','2014/10/16 0:00','7:27:46') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144175701','2014/10/16 0:00','7:28:03') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179203','2014/10/16 0:00','7:28:15') [ RunTime:0.000118s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179201','2014/10/16 0:00','7:28:17') [ RunTime:0.000125s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173549','2014/10/16 0:00','7:28:57') [ RunTime:0.000121s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173550','2014/10/16 0:00','7:28:58') [ RunTime:0.000172s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179423','2014/10/16 0:00','7:29:02') [ RunTime:0.000182s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179205','2014/10/16 0:00','7:29:07') [ RunTime:0.000159s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171910','2014/10/16 0:00','7:29:25') [ RunTime:0.000127s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179221','2014/10/16 0:00','7:30:52') [ RunTime:0.000121s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('145178213','2014/10/16 0:00','7:31:24') [ RunTime:0.000126s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144179519','2014/10/16 0:00','7:31:42') [ RunTime:0.000121s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173337','2014/10/17 0:00','7:06:24') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171301','2014/10/17 0:00','7:06:28') [ RunTime:0.000131s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174302','2014/10/17 0:00','7:06:58') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173343','2014/10/17 0:00','7:07:01') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173538','2014/10/17 0:00','7:07:04') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174212','2014/10/17 0:00','7:07:09') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173249','2014/10/17 0:00','7:07:10') [ RunTime:0.000126s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174235','2014/10/17 0:00','7:07:13') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171232','2014/10/17 0:00','7:22:21') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173446','2014/10/17 0:00','7:22:22') [ RunTime:0.000131s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171235','2014/10/17 0:00','7:22:26') [ RunTime:0.000126s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171629','2014/10/17 0:00','7:22:27') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171626','2014/10/17 0:00','7:22:29') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173813','2014/10/17 0:00','7:22:33') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174204','2014/10/17 0:00','7:26:02') [ RunTime:0.000124s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171462','2014/10/17 0:00','7:26:08') [ RunTime:0.000180s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171461','2014/10/17 0:00','7:26:11') [ RunTime:0.000179s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171737','2014/10/17 0:00','7:26:19') [ RunTime:0.000197s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171418','2014/10/17 0:00','7:26:40') [ RunTime:0.000172s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171444','2014/10/17 0:00','7:27:01') [ RunTime:0.000171s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177425','2014/10/17 0:00','7:27:03') [ RunTime:0.000130s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171448','2014/10/17 0:00','7:27:05') [ RunTime:0.000125s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173618','2014/10/17 0:00','7:27:18') [ RunTime:0.000151s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174252','2014/10/17 0:00','7:27:25') [ RunTime:0.000185s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173624','2014/10/17 0:00','7:27:29') [ RunTime:0.000164s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173621','2014/10/17 0:00','7:27:30') [ RunTime:0.000127s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173647','2014/10/17 0:00','7:27:32') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171835','2014/10/17 0:00','7:27:34') [ RunTime:0.000125s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173656','2014/10/17 0:00','7:27:36') [ RunTime:0.000123s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173650','2014/10/17 0:00','7:27:37') [ RunTime:0.000121s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177511','2014/10/17 0:00','7:28:08') [ RunTime:0.000124s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173921','2014/10/17 0:00','7:28:11') [ RunTime:0.000124s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173923','2014/10/17 0:00','7:28:12') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173924','2014/10/17 0:00','7:28:14') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171645','2014/10/17 0:00','7:28:19') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171650','2014/10/17 0:00','7:28:20') [ RunTime:0.000131s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171417','2014/10/17 0:00','7:28:32') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173147','2014/10/17 0:00','7:28:35') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173101','2014/10/17 0:00','7:28:42') [ RunTime:0.000118s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144173752','2014/10/17 0:00','7:28:49') [ RunTime:0.000128s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171748','2014/10/17 0:00','7:28:51') [ RunTime:0.000120s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177845','2014/10/17 0:00','7:30:03') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174122','2014/10/17 0:00','7:30:11') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144174123','2014/10/17 0:00','7:30:13') [ RunTime:0.000124s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177539','2014/10/17 0:00','7:30:20') [ RunTime:0.000122s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177538','2014/10/17 0:00','7:30:22') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171705','2014/10/17 0:00','7:30:35') [ RunTime:0.000119s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171704','2014/10/17 0:00','7:30:40') [ RunTime:0.000126s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171618','2014/10/17 0:00','7:30:41') [ RunTime:0.000144s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144177820','2014/10/17 0:00','7:31:00') [ RunTime:0.000128s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171753','2014/10/17 0:00','7:31:04') [ RunTime:0.000125s ]
+SQL: INSERT INTO `source` (`sno`,`ymd`,`hms`) VALUES ('144171241','41929','0.31327546296296') [ RunTime:0.000135s ]
+SQL: SELECT * FROM `source` ORDER BY ymd,sno,hms asc  [ RunTime:0.000850s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171241','0000-00-00 00:00:00','0000-00-00',1) [ RunTime:0.000289s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171810','2014-10-16 07:27:12','2014-10-16',1) [ RunTime:0.000207s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171811','2014-10-16 07:27:14','2014-10-16',1) [ RunTime:0.000213s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171840','2014-10-16 07:27:38','2014-10-16',1) [ RunTime:0.000179s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171851','2014-10-16 07:27:11','2014-10-16',1) [ RunTime:0.000554s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171901','2014-10-16 07:26:22','2014-10-16',1) [ RunTime:0.000200s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171902','2014-10-16 07:26:24','2014-10-16',1) [ RunTime:0.000173s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171910','2014-10-16 07:29:25','2014-10-16',1) [ RunTime:0.000160s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144172026','2014-10-16 07:26:20','2014-10-16',1) [ RunTime:0.000334s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144172211','2014-10-16 07:26:52','2014-10-16',1) [ RunTime:0.000330s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144172252','2014-10-16 07:27:46','2014-10-16',1) [ RunTime:0.000233s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173326','2014-10-16 07:26:49','2014-10-16',1) [ RunTime:0.000174s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173329','2014-10-16 07:26:54','2014-10-16',1) [ RunTime:0.000150s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173512','2014-10-16 07:26:42','2014-10-16',1) [ RunTime:0.000192s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173529','2014-10-16 07:27:43','2014-10-16',1) [ RunTime:0.000336s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173531','2014-10-16 07:27:44','2014-10-16',1) [ RunTime:0.000229s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173533','2014-10-16 07:27:32','2014-10-16',1) [ RunTime:0.000200s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173543','2014-10-16 07:27:35','2014-10-16',1) [ RunTime:0.000206s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173549','2014-10-16 07:28:57','2014-10-16',1) [ RunTime:0.000138s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173550','2014-10-16 07:28:58','2014-10-16',1) [ RunTime:0.000131s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173606','2014-10-16 07:26:29','2014-10-16',1) [ RunTime:0.000135s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173730','2014-10-16 07:26:30','2014-10-16',1) [ RunTime:0.000131s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175701','2014-10-16 07:28:03','2014-10-16',1) [ RunTime:0.000130s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175728','2014-10-16 07:26:37','2014-10-16',1) [ RunTime:0.000221s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175729','2014-10-16 07:26:38','2014-10-16',1) [ RunTime:0.000134s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175730','2014-10-16 07:26:33','2014-10-16',1) [ RunTime:0.000130s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175731','2014-10-16 07:26:35','2014-10-16',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144175814','2014-10-16 07:26:40','2014-10-16',1) [ RunTime:0.000171s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177517','2014-10-16 07:27:39','2014-10-16',1) [ RunTime:0.000136s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177518','2014-10-16 07:27:40','2014-10-16',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177536','2014-10-16 07:27:36','2014-10-16',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179110','2014-10-16 07:27:17','2014-10-16',1) [ RunTime:0.000138s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179122','2014-10-16 07:27:09','2014-10-16',1) [ RunTime:0.000129s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179201','2014-10-16 07:28:17','2014-10-16',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179203','2014-10-16 07:28:15','2014-10-16',1) [ RunTime:0.000136s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179205','2014-10-16 07:29:07','2014-10-16',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179221','2014-10-16 07:30:52','2014-10-16',1) [ RunTime:0.000126s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179229','2014-10-16 07:26:46','2014-10-16',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179230','2014-10-16 07:26:44','2014-10-16',1) [ RunTime:0.000131s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179302','2014-10-16 07:26:47','2014-10-16',1) [ RunTime:0.000126s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179423','2014-10-16 07:29:02','2014-10-16',1) [ RunTime:0.000181s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144179519','2014-10-16 07:31:42','2014-10-16',1) [ RunTime:0.000200s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('145178213','2014-10-16 07:31:24','2014-10-16',1) [ RunTime:0.000174s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171232','2014-10-17 07:22:21','2014-10-17',1) [ RunTime:0.000133s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171235','2014-10-17 07:22:26','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171301','2014-10-17 07:06:28','2014-10-17',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171417','2014-10-17 07:28:32','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171418','2014-10-17 07:26:40','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171444','2014-10-17 07:27:01','2014-10-17',1) [ RunTime:0.000149s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171448','2014-10-17 07:27:05','2014-10-17',1) [ RunTime:0.000222s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171461','2014-10-17 07:26:11','2014-10-17',1) [ RunTime:0.000142s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171462','2014-10-17 07:26:08','2014-10-17',1) [ RunTime:0.000155s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171618','2014-10-17 07:30:41','2014-10-17',1) [ RunTime:0.000164s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171626','2014-10-17 07:22:29','2014-10-17',1) [ RunTime:0.000203s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171629','2014-10-17 07:22:27','2014-10-17',1) [ RunTime:0.000224s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171645','2014-10-17 07:28:19','2014-10-17',1) [ RunTime:0.000217s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171650','2014-10-17 07:28:20','2014-10-17',1) [ RunTime:0.000174s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171704','2014-10-17 07:30:40','2014-10-17',1) [ RunTime:0.000206s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171705','2014-10-17 07:30:35','2014-10-17',1) [ RunTime:0.000161s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171737','2014-10-17 07:26:19','2014-10-17',1) [ RunTime:0.000147s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171748','2014-10-17 07:28:51','2014-10-17',1) [ RunTime:0.000134s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171753','2014-10-17 07:31:04','2014-10-17',1) [ RunTime:0.000133s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144171835','2014-10-17 07:27:34','2014-10-17',1) [ RunTime:0.000132s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173101','2014-10-17 07:28:42','2014-10-17',1) [ RunTime:0.000133s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173147','2014-10-17 07:28:35','2014-10-17',1) [ RunTime:0.000133s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173249','2014-10-17 07:07:10','2014-10-17',1) [ RunTime:0.000140s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173337','2014-10-17 07:06:24','2014-10-17',1) [ RunTime:0.000156s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173343','2014-10-17 07:07:01','2014-10-17',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173446','2014-10-17 07:22:22','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173538','2014-10-17 07:07:04','2014-10-17',1) [ RunTime:0.000130s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173618','2014-10-17 07:27:18','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173621','2014-10-17 07:27:30','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173624','2014-10-17 07:27:29','2014-10-17',1) [ RunTime:0.000126s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173647','2014-10-17 07:27:32','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173650','2014-10-17 07:27:37','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173656','2014-10-17 07:27:36','2014-10-17',1) [ RunTime:0.000126s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173752','2014-10-17 07:28:49','2014-10-17',1) [ RunTime:0.000130s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173813','2014-10-17 07:22:33','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173921','2014-10-17 07:28:11','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173923','2014-10-17 07:28:12','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144173924','2014-10-17 07:28:14','2014-10-17',1) [ RunTime:0.000136s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174122','2014-10-17 07:30:11','2014-10-17',1) [ RunTime:0.000127s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174123','2014-10-17 07:30:13','2014-10-17',1) [ RunTime:0.000125s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174204','2014-10-17 07:26:02','2014-10-17',1) [ RunTime:0.000126s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174212','2014-10-17 07:07:09','2014-10-17',1) [ RunTime:0.000134s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174235','2014-10-17 07:07:13','2014-10-17',1) [ RunTime:0.000135s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174252','2014-10-17 07:27:25','2014-10-17',1) [ RunTime:0.000132s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144174302','2014-10-17 07:06:58','2014-10-17',1) [ RunTime:0.000130s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177425','2014-10-17 07:27:03','2014-10-17',1) [ RunTime:0.000146s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177511','2014-10-17 07:28:08','2014-10-17',1) [ RunTime:0.000129s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177538','2014-10-17 07:30:22','2014-10-17',1) [ RunTime:0.000128s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177539','2014-10-17 07:30:20','2014-10-17',1) [ RunTime:0.000134s ]
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177820','2014-10-17 07:31:00','2014-10-17',1) [ RunTime:0.000137s ]
+NOTIC: [8] Undefined offset: 94 F:\wamp\www\run\index\Lib\Action\IndexAction.class.php 第 103 行.
+SQL: INSERT INTO `info` (`stu_no`,`start_time`,`date`,`status`) VALUES ('144177845','2014-10-17 07:30:03','2014-10-17',1) [ RunTime:0.000208s ]
+NOTIC: [8] Undefined variable: msg F:\wamp\www\run\index\Lib\Action\IndexAction.class.php 第 131 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.285529s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.286394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006842s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.293278s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.293667s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.294028s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.294404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001630s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.295007s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2014-11-17T15:43:17+08:00 ] 127.0.0.1 /run/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001068s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001184s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.024769s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.025548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.034860s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.035391s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.035780s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.036188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001786s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.036724s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2014-11-17T15:43:18+08:00 ] 127.0.0.1 /run/index.php/Index/north.html?_=1416210197982
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001407s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.033677s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000787s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.034519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010681s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.045258s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.045859s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046520s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.047344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003360s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.048710s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2014-11-17T15:43:18+08:00 ] 127.0.0.1 /run/index.php/Index/foot.html?_=1416210197989
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001143s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001255s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.109851s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000623s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.110508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007776s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.118353s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.118934s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.119478s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.119879s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002208s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.120653s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2014-11-17T15:43:18+08:00 ] 127.0.0.1 /run/index.php/Index/home.html?_=1416210198000
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001613s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001731s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.157831s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003020s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.160919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019974s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.180948s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.181843s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.182762s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.183732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003775s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.184892s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001144s ]
+
+[ 2014-11-17T15:44:48+08:00 ] 127.0.0.1 /run/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.027243s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001114s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.028211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007817s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.036054s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.036628s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.037131s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.037481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002004s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.038116s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2014-11-17T15:44:48+08:00 ] 127.0.0.1 /run/index.php/Index/north.html?_=1416210288507
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001255s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.036885s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.038208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016237s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.054570s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.055893s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.057234s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.057917s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004741s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.059425s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001395s ]
+
+[ 2014-11-17T15:44:48+08:00 ] 127.0.0.1 /run/index.php/Index/foot.html?_=1416210288515
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001516s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.117516s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000892s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.118467s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008660s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.127176s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.127900s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.128640s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.129207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002876s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.130140s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2014-11-17T15:44:48+08:00 ] 127.0.0.1 /run/index.php/Index/home.html?_=1416210288528
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001131s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.168614s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000697s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.169350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009404s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.178818s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.179436s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.179970s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.180606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002546s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.181461s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001099s ]
+

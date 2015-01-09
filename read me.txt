@@ -1,0 +1,10 @@
+url：http://localhost/run/admin.php/Index/index
+数据库文件和原始导入数据在data文件夹中
+
+数据库账户root
+密码为空
+可在config.inc.php文件中修改
+
+注意事项
+导入的excel跑步时间项必须是文本格式
+一次性导入的数据不能超过15000条
